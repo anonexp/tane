@@ -1,11 +1,10 @@
 # TANE
----
 
 Implementation used for comparison purposes on:
-- Codocedo et al. "Characterizing Covers of Functional Dependencies using FCA" on the International Conference on Concept Lattices and their Applications 2018.
+- Codocedo et al. #"Characterizing Covers of Functional Dependencies using FCA"# on the International Conference on Concept Lattices and their Applications 2018.
 
 TANE's original article:
-- Huhtala et al. "TANE: An Efficient Algorithm for Discovering Functional and Approximate Dependencies"
+- Huhtala et al. #"TANE: An Efficient Algorithm for Discovering Functional and Approximate Dependencies"#
 
 ## Installation
 - git clone https://github.com/codocedo/tane.git
